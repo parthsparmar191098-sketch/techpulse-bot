@@ -1,0 +1,41 @@
+name: Send due posts
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # every 15 minutes (GitHub may run it a few minutes late)
+  push:
+    paths:
+      - "queue/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: send-posts
+  cancel-in-progress: false
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Send posts whose time has come
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        run: python3 scripts/send_due.py
+
+      - name: Save sent/failed status
+        run: |
+          git config user.name "techpulse-bot"
+          git config user.email "techpulse-bot@users.noreply.github.com"
+          git add -A queue sent failed 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "nothing to commit"
+          else
+            git commit -m "Mark posts as sent"
+            git pull --rebase origin main
+            git push
+          fi
