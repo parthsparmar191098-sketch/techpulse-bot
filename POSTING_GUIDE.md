@@ -53,20 +53,21 @@ One verified, surprising tech or science fact in 1–2 sentences.
 
 ## Writing rules
 - Write everything in your own words. Never copy sentences from articles; quotes, if any, under 15 words.
-- End every post with source link(s): `<a href="URL">Source</a>`.
+- Every bullet ends with its source link: `<a href="URL">Source</a>`.
 - Telegram HTML only: `<b>`, `<i>`, `<u>`, `<s>`, `<a href="">`, `<code>`, `<blockquote>`. Escape `&`, `<`, `>` in normal text as `&amp;`, `&lt;`, `&gt;`.
-- One or two emojis per post, not more.
+- Emojis only in the section headings shown above, not inside bullets.
 - Footer on every post: `\n\n📡 @CHANNEL` (use the username in `channel.txt`).
 
 ## File format
-Create one file per post in `queue/`, named `YYYY-MM-DD_HHMM_slot.txt`, e.g. `queue/2026-10-11_0800_brief.txt`:
+Create the digest as one file in `queue/`, e.g. `queue/2026-10-11_0800_digest.txt`:
 
 ```
 send_at: 2026-10-11T08:00:00+05:30
 ---
-<b>🌍 Morning Brief – 11 Oct</b>
+<b>⚡ Tech Pulse Daily | 11 Oct</b>
 
-1. ...
+<b>🤖 AI</b>
+• ...
 ```
 
 Commit and push to `main`. The GitHub Action checks every 15 minutes and sends posts whose time has passed.
