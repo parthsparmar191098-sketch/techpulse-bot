@@ -1,0 +1,13 @@
+send_at: 2026-10-10T18:25:00+05:30
+---
+<b>🤖 AI &amp; Robotics | 10 Oct</b>
+
+<b>1. Google turns Gemini into a work agent</b>
+Google has launched an "agent" version of Gemini for businesses. Instead of only answering questions, it takes a goal, plans the steps, splits the work across sub-agents and plugs into tools like Workspace, Microsoft 365, Slack and Jira. It even gets its own work email, and every action it takes is logged. Regular users will get it later.
+<a href="https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/">Source</a>
+
+<b>2. Waymo borrows $5B to grow its robotaxis</b>
+Alphabet's self-driving unit has raised its first-ever debt: a $5 billion loan from investors including Blackstone and PIMCO. Waymo already runs driverless taxis in 15 markets and is testing in London and Tokyo ahead of launches there. US safety regulators are still investigating incidents involving its cars and school buses.
+<a href="https://techcrunch.com/2026/10/08/waymo-locks-in-5b-loan-from-blackstone-pimco-to-fuel-robotaxi-expansion/">Source</a>
+
+📡 @technical369
