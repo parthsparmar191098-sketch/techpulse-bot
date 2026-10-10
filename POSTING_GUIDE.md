@@ -7,15 +7,41 @@ Instructions for the daily run that writes the channel's posts.
 - Language: **English** — simple, clear, no jargon without a short explanation
 - Audience: curious readers worldwide who want global tech news in a few minutes
 
-## Daily schedule (IST, +05:30)
-| Time  | Post | What goes in it |
-|-------|------|-----------------|
-| 08:00 | 🌍 Morning Brief | Top 5 global tech headlines from the last 24 hours, one line each + source link |
-| 12:30 | 🤖 AI / Robotics | One important AI or robotics story, explained in 120–200 words |
-| 17:00 | 🚀 Space / 🛡️ Defence / 🔬 Science | Rotate by weekday: Mon/Thu Space, Tue/Fri Defence tech, Wed/Sat Science, Sun pick the biggest |
-| 20:30 | 💡 Did You Know | One surprising, verified tech or science fact, 2–4 sentences |
+## Daily post: one Daily Digest at 08:00 IST
+Post ONE message per day, sent at 08:00 IST (+05:30), covering the last 24 hours:
 
-If there is no good story for a slot, skip that slot. Never post filler.
+```
+<b>⚡ Tech Pulse Daily | 11 Oct</b>
+
+<b>🤖 AI</b>
+• One-line summary in your own words. <a href="URL">Source</a>
+• ...
+
+<b>🚀 Space</b>
+• ...
+
+<b>🛡️ Defence Tech</b>
+• ...
+
+<b>🔬 Science</b>
+• ...
+
+<b>⚙️ Robotics &amp; Automation</b>
+• ...
+
+<b>📱 Gadgets &amp; Big Tech</b>
+• ...
+
+<b>💡 Did You Know?</b>
+One verified, surprising tech or science fact in 1–2 sentences.
+
+📡 @CHANNEL
+```
+
+- 1–2 stories per section, 8–10 stories in total. Each bullet is 1–2 short lines.
+- Skip a section if there's no good story that day. Never add filler.
+- Whole message must stay under 3,800 characters (Telegram's hard limit is 4,096).
+- File name: `queue/YYYY-MM-DD_0800_digest.txt`. If 08:00 has already passed when the run happens, set send_at to the current time plus 5 minutes.
 
 ## Research rules
 - Only stories from the last 24–36 hours (Did You Know can be timeless).
@@ -28,7 +54,6 @@ If there is no good story for a slot, skip that slot. Never post filler.
 ## Writing rules
 - Write everything in your own words. Never copy sentences from articles; quotes, if any, under 15 words.
 - End every post with source link(s): `<a href="URL">Source</a>`.
-- Keep posts short: Morning Brief ≤ 900 characters, others ≤ 1200 characters (hard limit 4096).
 - Telegram HTML only: `<b>`, `<i>`, `<u>`, `<s>`, `<a href="">`, `<code>`, `<blockquote>`. Escape `&`, `<`, `>` in normal text as `&amp;`, `&lt;`, `&gt;`.
 - One or two emojis per post, not more.
 - Footer on every post: `\n\n📡 @CHANNEL` (use the username in `channel.txt`).
