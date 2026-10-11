@@ -1,0 +1,28 @@
+send_at: 2026-10-11T08:00:00+05:30
+---
+<b>⚡ Tech Pulse Daily | 11 Oct</b>
+
+<b>🤖 AI</b>
+• Anthropic's new small model, Claude Haiku 5.5, costs about 75% less than its predecessor: $0.10 per million input tokens for prompts up to 100K. It also adds a setting to control how hard the model "thinks". <a href="https://letsdatascience.com/news/anthropic-releases-claude-haiku-55-with-lower-prices-and-eff-f698c663">Source</a>
+• Mistral opened a public preview of Large 4, a 1-million-token model for coding and agents. Downloadable open weights are promised by the end of October. <a href="https://letsdatascience.com/news/mistral-debuts-large-4-open-weight-model-preview-cbf9e0b5">Source</a>
+
+<b>🚀 Space</b>
+• NASA's Crew-12 astronauts splashed down off Los Angeles on 8 Oct after 237 days on the space station, covering over 100 million miles. <a href="https://www.sciencedaily.com/releases/2026/10/261008232629.htm">Source</a>
+• NASA picked three instruments for future Moon landers. They will hunt for lava tubes, hidden ice and moonquakes, to find safe spots for a lunar base. <a href="https://www.sciencedaily.com/releases/2026/10/261008005247.htm">Source</a>
+
+<b>🛡️ Defence Tech</b>
+• A Falcon 9 launched 21 satellites for the US Space Development Agency's data-relay network on 10 Oct. It is the fourth launch for the planned 126-satellite first batch. <a href="https://spaceflightnow.com/2026/10/09/spacex-to-make-another-attempt-to-launch-21-data-satellites-for-space-development-agency/">Source</a>
+• The Pentagon named four lasers and microwave weapons for a one-year counter-drone pilot at US bases. Systems come from AeroVironment, Epirus, Kord and Boeing. <a href="https://militarytimes.com/industry/techwatch/2026/10/06/pentagon-names-4-directed-energy-weapons-for-counter-drone-program-at-us-bases">Source</a>
+
+<b>🔬 Science</b>
+• Physicists in Austria created "Bethe strings", clusters of atoms bound together in a super-cold 1D gas, predicted back in 1931. <a href="https://www.sciencedaily.com/releases/2026/10/261006234517.htm">Source</a>
+• NASA researchers found Earth's centre of mass shifts by only a few millimetres each year as water, snow and air move around. <a href="https://www.sciencedaily.com/releases/2026/10/261005071520.htm">Source</a>
+
+<b>⚙️ Robotics &amp; Automation</b>
+• Boston Dynamics showed a new four-fingered, 13-joint hand for its Atlas humanoid, designed to be easier to mass-produce. <a href="https://therobotreport.com/boston-dynamics-gives-more-insight-into-its-redesigned-humanoid-hand">Source</a>
+• KAIST's four-legged robot RAIBO2 ran a full marathon on one battery charge in 4h 19m, using less energy per kilogram and metre than an average human runner. <a href="https://www.popsci.com/technology/robot-dog-runs-marathon-one-charge/">Source</a>
+
+<b>💡 Did You Know?</b>
+Crew-12 circled Earth more than 3,792 times in 237 days. That is about 16 sunrises a day for the astronauts.
+
+📡 @technical369
