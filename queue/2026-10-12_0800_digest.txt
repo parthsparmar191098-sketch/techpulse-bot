@@ -1,0 +1,28 @@
+send_at: 2026-10-12T08:30:00+05:30
+---
+<b>⚡ Tech Pulse Daily | 12 Oct</b>
+
+<b>🤖 AI</b>
+• Microsoft CEO Satya Nadella called for an "emergency brake" on AI models: safeguards kept outside the model, tamper-proof logs of its actions, and a person able to pause it mid-task. <a href="https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/">Source</a>
+
+<b>🚀 Space</b>
+• Old Hubble data show a white dwarf rich in niobium, a heavy element made as stars die. Researchers think a Jupiter-sized planet may have formed from the dead star's own debris. <a href="https://www.sciencedaily.com/releases/2026/10/261007042106.htm">Source</a>
+
+<b>🛡️ Defence Tech</b>
+• Lockheed Martin unveiled PAC-3 Edge, a Patriot interceptor aimed at hypersonic missiles, with a new seeker and a multi-pulse rocket motor from Northrop Grumman. <a href="https://www.defensenews.com/industry/techwatch/2026/10/10/lockheed-martin-unveils-pac-3-edge-interceptor-designed-to-counter-hypersonic-threats/">Source</a>
+• The Pentagon signed a $6.3 billion deal with Raytheon to refill US missile interceptor stocks used up in combat. <a href="https://www.defensenews.com/missile-defense/2026/10/09/pentagon-raytheon-sign-63b-deal-to-replenish-us-missile-interceptor-supply/">Source</a>
+
+<b>🔬 Science</b>
+• TU Wien built a nuclear clock that locks its laser to thorium-229 nuclei. It ran over 24 hours on its own at about 1 second of error in 30 million years. <a href="https://www.sciencedaily.com/releases/2026/10/261008102701.htm">Source</a>
+• Princeton plasma lab calculations suggest heating fusion fuel first and squeezing it later could reach ignition with far less energy. Not yet tested. <a href="https://www.sciencedaily.com/releases/2026/10/261008005242.htm">Source</a>
+
+<b>⚙️ Robotics &amp; Automation</b>
+• US regulators gave self-driving truck firms Aurora and Kodiak a 5-year exemption: cab-mounted beacons can replace the warning triangles a human driver must place after a breakdown. <a href="https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/">Source</a>
+
+<b>📱 Gadgets &amp; Big Tech</b>
+• Cloudflare is buying Deno, the startup of Node.js creator Ryan Dahl, to improve its Workers platform for running code on its network. <a href="https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/">Source</a>
+
+<b>💡 Did You Know?</b>
+NC State engineers made a radio antenna out of a laser-made plasma beam in air. Change the laser and you retune the antenna, with no moving parts. <a href="https://www.sciencedaily.com/releases/2026/10/261008005239.htm">Source</a>
+
+📡 @technical369
