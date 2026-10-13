@@ -1,0 +1,26 @@
+send_at: 2026-10-13T08:00:00+05:30
+---
+<b>⚡ Tech Pulse Daily | 13 Oct</b>
+
+<b>🤖 AI</b>
+• Meta released Muse Wonder, its first frontier-class AI model. Meta says it matches top rivals on benchmarks. It costs $4 per million input tokens and $20 per million output tokens through Meta's API. <a href="https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/">Source</a>
+
+<b>🚀 Space</b>
+• Webb helped astronomers spot the most distant fast radio burst ever seen, more than doubling the old distance record. Scientists were surprised by where it came from. <a href="https://www.space.com/astronomy/galaxies/james-webb-space-telescope-helps-detect-the-most-distant-fast-radio-burst-ever-seen-and-scientists-are-surprised-by-its-source">Source</a>
+• Blue Origin is rebuilding its New Glenn launch pad after a May explosion. Bezos is aiming for a December return to flight, though much new hardware has not yet appeared. <a href="https://www.nasaspaceflight.com/2026/10/blue-origin-lc-36-rebuild-new-glenn/">Source</a>
+
+<b>🛡️ Defence Tech</b>
+• The US Air Force will buy weather data from WindBorne's roughly 700 autonomous balloons in a deal worth up to $49 million. It pays only for the regions and times it orders. <a href="https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/">Source</a>
+• At the AUSA expo, Twenty-Six Defense (formerly Elbit America) showed Primex, a lightweight headset mixing night vision with augmented reality for soldiers. <a href="https://defensenews.com/land/2026/10/12/twenty-six-defense-unveils-new-soldier-worn-tech">Source</a>
+
+<b>🔬 Science</b>
+• MIT astronomers found a small star slowly eating a brown dwarf that orbits it every 87 minutes. It takes so little material that the meal could last billions of years. <a href="https://www.sciencedaily.com/releases/2026/10/261008005240.htm">Source</a>
+• A study of students aged 18 to 35 links heavy phone use to weaker memory, attention and sleep. About a third of them spent four to five hours or more a day on their phones. <a href="https://www.sciencedaily.com/releases/2026/10/261011211611.htm">Source</a>
+
+<b>⚙️ Robotics &amp; Automation</b>
+• GM Defense unveiled a driverless truck based on the Silverado 3500. It can carry 8,000 pounds and uses Scout AI's autonomy software. A working demo is planned for June 2027. <a href="https://defensedaily.com/gm-defense-unveils-new-ugv-aims-to-have-tech-demonstrator-ready-by-june-2027/army">Source</a>
+
+<b>💡 Did You Know?</b>
+On 11 October 1968, Apollo 7 carried NASA's first crewed Apollo flight into orbit, 58 years ago this week. <a href="https://www.space.com/space-exploration/on-this-day-in-space-october-11-2026">Source</a>
+
+📡 @technical369
