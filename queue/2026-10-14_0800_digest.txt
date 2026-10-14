@@ -1,0 +1,29 @@
+send_at: 2026-10-14T08:00:00+05:30
+---
+<b>⚡ Tech Pulse Daily | 14 Oct</b>
+
+<b>🤖 AI</b>
+• Microsoft president Brad Smith says AI firms face less oversight than everyday consumer goods. He argues the UK is better placed than the US or EU to lead on global AI safety rules. <a href="https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/">Source</a>
+• Google Play now lets anyone build private, AI-coded "vibe-coded" apps that run only on their own Android devices. <a href="https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/">Source</a>
+
+<b>🚀 Space</b>
+• A SpaceX Falcon 9 launched about 6,300 pounds of cargo to the International Space Station on the morning of 13 Oct. <a href="https://www.space.com/space-exploration/international-space-station/spacex-crs-35-cargo-launch-international-space-station">Source</a>
+• In-space manufacturing firm Varda has two spacecraft in orbit and plans eight more missions over the next year. <a href="https://www.space.com/space-exploration/launches-spacecraft/2-spacecraft-in-orbit-and-8-more-coming-soon-varda-has-big-plans-for-in-space-manufacturing">Source</a>
+
+<b>🛡️ Defence Tech</b>
+• The US Army gave Anduril a contract worth up to $1.8 billion over five years to roll out NGC2, an AI-powered battlefield command network. The first $162.8 million covers deployment to I Corps in the Indo-Pacific. <a href="https://www.defensenews.com/industry/techwatch/2026/10/13/anduril-awarded-contract-to-expand-us-armys-next-gen-battlefield-command-system/">Source</a>
+
+<b>🔬 Science</b>
+• Science Corporation implanted its tiny PRIMA vision chip in its first patient with Stargardt disease, an inherited eye condition. The patient has progressed from seeing one letter to reading a word. <a href="https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/">Source</a>
+• Caltech and Yale scientists found a way to predict the Kondo effect, a strange rise in metal resistance at low temperatures, from real atomic structure. It was up to 100 times more accurate than older models for most elements tested. <a href="https://www.sciencedaily.com/releases/2026/10/261006234520.htm">Source</a>
+
+<b>⚙️ Robotics &amp; Automation</b>
+• Startup Industrial Next is building factory robots that can switch to a new task in minutes instead of weeks. <a href="https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/">Source</a>
+
+<b>📱 Gadgets &amp; Big Tech</b>
+• Facebook is adding new controls that let users shape how its feed algorithm picks what they see. <a href="https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/">Source</a>
+
+<b>💡 Did You Know?</b>
+Seoul National University researchers raised the yield of one chemical reaction from about 16% to 97% just by controlling acidity near the electrodes. <a href="https://www.sciencedaily.com/releases/2026/10/261008005244.htm">Source</a>
+
+📡 @technical369
